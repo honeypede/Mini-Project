@@ -3,6 +3,7 @@ import 'package:adobe_xd/pinned.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 import 'package:telehealth/userinterface/userinterface.dart';
 
+
 // ignore: camel_case_types
 class resultpage extends StatefulWidget {
   final int bpm;
